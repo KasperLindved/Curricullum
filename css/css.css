@@ -46,10 +46,11 @@ main{
 
 @media (min-width: 500px) {
 
-body{
+#background{
     background-image:url(../img/placeholder2.png);
-    background-size:cover;
+    background-size:1500px;
     background-repeat:no-repeat;
+    background-position:50% -50px;
     }
 
 
